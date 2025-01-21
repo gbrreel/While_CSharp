@@ -1,0 +1,11 @@
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/bin/Debug/net8.0/WhileCSharp
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/bin/Debug/net8.0/WhileCSharp.dll
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/bin/Debug/net8.0/WhileCSharp.pdb
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/obj/Debug/net8.0/WhileCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/obj/Debug/net8.0/WhileCSharp.AssemblyInfoInputs.cache
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/obj/Debug/net8.0/WhileCSharp.AssemblyInfo.cs
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/obj/Debug/net8.0/WhileCSharp.csproj.CoreCompileInputs.cache
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/obj/Debug/net8.0/WhileCSharp.sourcelink.json
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/obj/Debug/net8.0/WhileCSharp.dll
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/obj/Debug/net8.0/refint/WhileCSharp.dll
+/Users/GabrielGallo/Códigos/git/EstudosC#/While_CSharp/WhileCSharp/WhileCSharp/obj/Debug/net8.0/WhileCSharp.pdb
